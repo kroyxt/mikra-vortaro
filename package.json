@@ -1,0 +1,8 @@
+{
+  "name": "mikra-vortaro",
+  "version": "1.0.0",
+  "description": "Mikra vortaro Ido-Esperanto",
+  "main": "index.js",
+  "author": "Kristian Soto <kroyxlab@gmail.com>",
+  "license": "MIT"
+}
