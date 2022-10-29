@@ -154,7 +154,7 @@
 | Vito       | Vito        |
 | Yuko       | Yuka        |
 
-# Legumi
+## Legumi
 
 | Ido          | Esperanto   |
 | ------------ | ----------- |
@@ -187,6 +187,23 @@
 | Porelo       | Poreo       |
 | Rafano       | Rafano      |
 | Spinato      | Spinaco     |
+
+## Kolori
+
+| Ido     | Esperanto   |
+| ------- | ----------- |
+| Blanka  | Blanka      |
+| Blua    | Blua        |
+| Bruna   | Bruna       |
+| Flava   | Flava       |
+| Griza   | Griza       |
+| Nigra   | Nigra       |
+| Oranjea | Oranĝkolora |
+| Purpura | Purpura     |
+| Reda    | Ruĝa        |
+| Rozea   | Rozkolora   |
+| Verda   | Verda       |
+| Violea  | Violkolora  |
 
 ## Familio
 
@@ -594,20 +611,3 @@
 | Streketo       | Streketo      |
 | Streko         | Haltostreko   |
 | Puntaro        | Tripunkto     |
-
-## Kolori
-
-| Ido     | Esperanto   |
-| ------- | ----------- |
-| Blanka  | Blanka      |
-| Blua    | Blua        |
-| Bruna   | Bruna       |
-| Flava   | Flava       |
-| Griza   | Griza       |
-| Nigra   | Nigra       |
-| Oranjea | Oranĝkolora |
-| Purpura | Purpura     |
-| Reda    | Ruĝa        |
-| Rozea   | Rozkolora   |
-| Verda   | Verda       |
-| Violea  | Violkolora  |

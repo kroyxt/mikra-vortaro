@@ -4,6 +4,7 @@
 | ----------- | --------------------------------------   |
 | Abandonar   | Forlasi, Forĵeti                         |
 | Abonar      | Aboni                                    |
+| Abundar     | Abundi                                   |
 | Acensar     | Supreniri                                |
 | Aceptar     | Akcepti                                  |
 | Adjudikar   | Prijuĝi                                  |
@@ -79,6 +80,7 @@
 | Dicar       | Diri                                     |
 | Dicernar    | Distingi                                 |
 | Diferar     | Diferenci                                |
+| Digestar    | Digesti                                  |
 | Diminutar   | Malpliigi, Malpliiĝi                     |
 | Direktar    | Direkti                                  |
 | Diskutar    | Diskuti                                  |
@@ -284,7 +286,9 @@
 | Neglijar    | Neglikti                                 |
 | Nocar       | Malutili                                 |
 | Nominar     | Nomi                                     |
+| Nutrar      | Nutri                                    |
 | Obediar     | Obei                                     |
+| Objecionar  | Kontraŭi                                 |
 | Obligar     | Devigi                                   |
 | Obliviar    | Forgesi                                  |
 | Observar    | Observi                                  |
