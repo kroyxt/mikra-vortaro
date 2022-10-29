@@ -1,13 +1,13 @@
 # Adjektivi
 
-## Kustuma Adjektivi
-
 | Ido          | Esperanto                          |
 | ------------ | ---------------------------------- |
+| Absoluta     | Absoluta                           |
 | Acerba       | Acideta, Acerba                    |
-| Agreabla     | Agrabla                            |
 | Afabla       | Afabla                             |
+| Agreabla     | Agrabla                            |
 | Ajila        | Tujagema, Facilmova                |
+| Akurata      | Akurata                            |
 | Akuta        | Akra                               |
 | Alta         | Alta                               |
 | Altra        | Alia                               |
@@ -34,9 +34,12 @@
 | Dextra       | Dekstra                            |
 | Diligenta    | Diligenta                          |
 | Direta       | Rekta                              |
+| Diversa      | Diversa                            |
 | Dolca        | Dolĉa                              |
 | Ecelanta     | Bonega                             |
+| Eminenta     | Eminenta                           |
 | Experta      | Sperta                             |
+| Extrema      | Ekstrema                           |
 | Facila       | Facila                             |
 | Febla        | Tre malforta                       |
 | Felica       | Feliĉa                             |
@@ -44,14 +47,12 @@
 | Ferma        | Firma                              |
 | Feroca       | Feroca                             |
 | Fidela       | Fidela                             |
-| Fiera        | Fiera                              |
 | Fixa         | Fiksa                              |
 | Fola         | Frenezeta                          |
 | Forta        | Forta                              |
 | Fortuna      | Bonsorta                           |
 | Fresha       | Freŝa                              |
 | Frua         | Frua                               |
-| Gaya         | Gaja                               |
 | Generala     | Ĝenerala                           |
 | Gracia       | Gracia                             |
 | Granda       | Granda                             |
@@ -63,6 +64,7 @@
 | Inteligenta  | Inteligenta                        |
 | Internaciona | Internacia                         |
 | Irga         | Ajn                                |
+| Jaluza       | Ĵaluza                             |
 | Jena         | Ĝena                               |
 | Jeneroza     | Malavara, Donacema                 |
 | Jentila      | Ĝentila                            |
@@ -110,11 +112,12 @@
 | Nuda         | Nuda                               |
 | Olda         | Maljuna                            |
 | Ordinara     | Ordinara                           |
-| Perplexa     | Konfuzita                          |
+| Pacienta     | Pacienca                           |
 | Plena        | Plena                              |
 | Plura        | Plura                              |
 | Polita       | Ĝentila                            |
 | Populara     | Populara                           |
+| Porcelana    | Porcelana                          |
 | Posibla      | Ebla                               |
 | Potenta      | Potenca                            |
 | Povra        | Malriĉa                            |
@@ -126,6 +129,7 @@
 | Pura         | Pura, Senmiksa, Esenca             |
 | Quieta       | Kvieta                             |
 | Rapida       | Rapida                             |
+| Reciproka    | Reciproka                          |
 | Richa        | Riĉa                               |
 | Sama         | Sama                               |
 | Sana         | Sana                               |
@@ -140,6 +144,7 @@
 | Sordida      | Malpura                            |
 | Specala      | Speciala                           |
 | Specifika    | Specifa                            |
+| Stifa        | Duon- (parenco)                    |
 | Stranja      | Stranga                            |
 | Stulta       | Mallerta, Malsaĝa, Stulta          |
 | Stupida      | Stulta                             |
@@ -148,7 +153,6 @@
 | Superba      | Memfiera                           |
 | Tenua        | Fajna                              |
 | Tota         | Tuta                               |
-| Tranquila    | Trankvila                          |
 | Trista       | Malfeliĉa                          |
 | Universala   | Universala                         |
 | Utila        | Utila                              |
@@ -160,21 +164,3 @@
 | Vicina       | Apudula, Najbara                   |
 | Yuna         | Juna                               |
 | Yusta        | Justa                              |
-
-## Kolori
-
-| Ido     | Esperanto   |
-| ------- | ----------- |
-| Blanka  | Blanka      |
-| Blua    | Blua        |
-| Bruna   | Bruna       |
-| Flava   | Flava       |
-| Griza   | Griza       |
-| Nigra   | Nigra       |
-| Oranjea | Oranĝkolora |
-| Purpura | Purpura     |
-| Reda    | Ruĝa        |
-| Rozea   | Rozkolora   |
-| Verda   | Verda       |
-| Violea  | Violkolora  |
-

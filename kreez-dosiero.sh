@@ -10,7 +10,13 @@ if [[ $dosiero == "pdf" ]]; then
 		--toc --toc-depth=2 \
 		--standalone \
 		--pdf-engine=weasyprint \
-		-o pdf/kustuma-vorti.pdf
+		-o dosieri/kustuma-vorti.pdf
+elif [[ $dosiero == "epub" ]]; then
+	pandoc parti/*.md \
+		--metadata-file=metadata.yaml \
+		--toc --toc-depth=2 \
+		--standalone \
+		-o dosieri/kustuma-vorti.epub
 else
 	exit 1
 fi

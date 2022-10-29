@@ -4,7 +4,7 @@
 | ------ | ------------------------------------------------ |
 | A[d]   | Al                                               |
 | Alonge | Laŭ longe de                                     |
-| An     | Tuj apud                                         |
+| An     | Tuj Apud/Ĉe/Sur                                  |
 | Ante   | Antaŭ[tempo]                                     |
 | Apud   | Apud                                             |
 | Avan   | Antaŭ[loko]                                      |

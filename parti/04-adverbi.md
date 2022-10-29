@@ -1,7 +1,5 @@
 # Adverbi
 
-## Kustuma Adverbi
-
 | Ido      | Esperanto                      |
 | -------- | ------------------------------ |
 | Adminime | Almenaŭ                        |
