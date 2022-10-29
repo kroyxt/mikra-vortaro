@@ -397,6 +397,7 @@
 | Savar       | Scii                                     |
 | Semblar     | Ŝajni                                    |
 | Sendar      | Sendi                                    |
+| Sentar      | Senti                                    |
 | Separar     | Disigi, Separi                           |
 | Sequar      | Sekvi                                    |
 | Serchar     | Serĉi                                    |

@@ -542,7 +542,7 @@
 | Tondro     | Tondro    |
 | Vento      | Vento     |
 
-## Emoci
+## Sentimienti
 
 | Ido          | Esperanto        |
 | ------------ | ---------------- |

@@ -261,6 +261,7 @@
 | Sekreto      | Sekreto                          |
 | Semano       | Semajno                          |
 | Semino       | Semo                             |
+| Sentimento   | Sento                            |
 | Sexuo        | Sekso                            |
 | Shako        | Ŝako                             |
 | Shuo         | Ŝuo                              |
