@@ -1,21 +1,49 @@
+:root {
+  --unesma-koloro: #3399ff;
+  --duesma-koloro: #4EBC46;
+  --triesma-koloro: rgba(51, 153, 255, 0.2);
+  --quaresma-koloro: #70B7FF;
+  --font-size: 10px;
+  --h1: 3.052rem;
+  --h2: 2.441rem;
+  --h3: 1.953rem;
+}
+
 @page {
   size: 110mm 170mm;
   margin: 40px;
 }
 
 @page {
-
   @top-left {
     content: string(heading);
-    font-size: 10px;
-    color: grey;
+    font-size: var(--font-size);
+    color: var(--quaresma-koloro);
+    font-weight: bold;
     width: 100%;
-    border-bottom: solid 1px grey;
+    border-bottom: solid 1px rgba(51, 153, 255, 0.2);
     margin-bottom: 10px;
   }
 
   @bottom-center {
     content: counter(page);
+    color: var(--quaresma-koloro);
+    font-weight: bold;
+  }
+}
+
+@page :first {
+  background-color: var(--unesma-koloro);
+  background-image: url("../imjini/mikra-vortaro.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 110mm 170mm;
+
+  @bottom-center {
+    content: none;
+  }
+  @top-left {
+    content: none;
   }
 }
 
@@ -37,108 +65,62 @@
   }
 }
 
-@page blua {
-  background-color: #3399FF;
-  @bottom-center {
-    content: none;
-  }
+@page h1 {
   @top-left {
     content: none;
   }
 }
 
 html {
-  font-family: serif;
-  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: var(--font-size);
+  color: var(--quaresma-koloro);
 }
 body {
   margin: 0;
 }
-section {
-  break-after: right;
-  padding-top: 25mm;
-}
-aside {
-  display: none;
-}
 
 h1 {
-  break-after: right;
-  font-size: 2.6em;
-  font-weight: normal;
-  margin: 3em 0;
+  page: h1;
+  break-before: right;
+  font-size: var(--h1);
   string-set: heading content();
-  page: blua;
+  font-weight: normal;
+  margin: auto;
+  margin-bottom: 1rem;
+  padding: 10px;
   color: white;
   text-align: center;
+  background-color: var(--quaresma-koloro);
 }
 h2 {
-  font-size: 1.2em;
+  font-size: var(--h2);
   font-variant: small-caps;
   font-weight: bold;
-  margin: 0 0 1em;
+  margin: auto;
+  margin-bottom: 1rem;
+  padding: .5rem;
+  border-bottom: solid 1px rgba(51, 153, 255, 0.7);
   text-align: center;
-  color: #3399FF;
+  color: var(--unesma-koloro);
+}
+h3 {
+  margin-bottom: .5rem;
+  font-size: var(--h3);
+  color: var(--quaresma-koloro);
 }
 img {
   display: block;
   width: 100%;
 }
-p {
-  hyphens: auto;
-  margin: 0;
-  text-align: justify;
-  text-indent: 1em;
-  margin-bottom: 10px;
-}
-dd {
-  margin: 0 0 0 1em;
-}
-br::after {
-  content: "";
-  display: inline-block;
-  width: 0.78em;
+
+#title-block-header {
+  color: transparent;
 }
 
-#title-block-header h1 {
-  page: blua;
-  color: white;
-  break-after:page;
-  margin: 0 auto;
-}
-
-.author {
-  padding-top: 10em;
-  text-align: center;
-  page: clean;
-  break-after:page;
-}
-.author p {
-  font-size: 1.3em;
-  margin: 5em 0 1em;
-  text-align: center;
-}
-
-dl {
-  position: absolute;
-  right: 0;
-  text-align: right;
-  top: 0;
-}
-dt,
-dd {
-  display: inline;
-  margin: 0;
-}
-dt {
-  color: #a9a;
-}
-dt::before {
-  content: "";
-  display: block;
-}
-dt::after {
-  content: ":";
+#title-block-header > * {
+  background-color: transparent;
+  color: inherit;
 }
 
 table {
@@ -147,33 +129,34 @@ table {
   margin-bottom: 20px;
   font-size: 10px;
 }
+.even {
+  background-color: var(--triesma-koloro);
+}
 th {
-  border-bottom: 0.2mm solid #a9a;
-  color: #a9a;
-  font-size: 10pt;
+  color: white;
+  background-color: #70B7FF;
+  font-size: 12px;
   font-weight: 400;
+  font-weight: bold;
   padding-bottom: 0.25cm;
   text-transform: uppercase;
 }
 td:first-of-type {
-  color: #3399FF;
+  color: var(--unesma-koloro);
 }
 td:last-of-type {
-  color: #098000;
+  color: var(--duesma-koloro);
 }
 td,
 th {
-  border: 1px solid #ddd;
-  padding: 5px;
+  padding: 3px;
 }
 
 nav {
   position: relative;
   margin-left: -0.5em;
   background: none;
-  /* string-set: heading content(); */
   page: clean;
-  page-break-after: always;
 }
 nav ul {
   margin-top: 0;
@@ -188,10 +171,9 @@ nav ul li {
 }
 nav ul li a {
   border-radius: 5px;
-  border-top: 1px solid #eee;
-  border-left: 1px solid #eee;
-  border-right: 1px solid #aaa;
-  border-bottom: 1px solid #aaa;
+  background-color: var(--quaresma-koloro);
+  color: white;
+  font-weight: bold;
   display: block;
   height: 2em;
   padding-top: 0.6em;
@@ -208,7 +190,7 @@ nav ul li ul {
   list-style-type: none;
   border-left-style: solid;
   border-left-width: 1px;
-  border-color: #eee;
+  border-color: var(--triesma-koloro);
   margin-top: 1.5em;
 }
 nav ul li ul li {
@@ -217,6 +199,8 @@ nav ul li ul li {
 }
 nav ul li ul li a {
   border: none;
+  background-color: white;
+  color: var(--unesma-koloro);
   font-family: PlexSans;
   margin-top: -1.5em;
 }
@@ -230,20 +214,4 @@ nav a {
   text-decoration: none;
   outline: none;
   color: #000;
-}
-
-blockquote {
-  color: #fff;
-  background-color: #777;
-  padding: 2mm;
-  border-radius: 4px;
-  border: 1px solid #000;
-}
-blockquote pre,
-blockquote code {
-  background-color: #555;
-}
-
-.pb {
-  page-break-before: always;
 }
