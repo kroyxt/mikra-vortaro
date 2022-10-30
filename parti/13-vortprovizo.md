@@ -1,4 +1,4 @@
-# Vortprovizo
+# Vortoprovizo
 
 ## Animali
 
@@ -550,11 +550,10 @@
 | Amuzoza      | Amuza            |
 | Angoroza     | Angora           |
 | Astonita     | Mirigita         |
-| Distraktoza  | Distra           |
+| Distraktita  | Distra           |
 | Drola        | Amuza            |
 | Durstoza     | Soifa            |
 | Ebria        | Ebria            |
-| Emociita     | Emociita         |
 | Enoyoza      | Enua             |
 | Entuziasmita | Entuziasmita     |
 | Exhaustoza   | Elĉerpita        |
@@ -591,7 +590,6 @@
 | Surpizita    | Surpizita        |
 | Timoza       | Timigita         |
 | Tranquila    | Trankvila        |
-| Trista       | Malfeliĉa        |
 | Trista       | Malgaja, Malĝoja |
 | Vexoza       | Ĉagrena          |
 
