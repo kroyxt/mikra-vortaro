@@ -409,6 +409,7 @@
 | Okulo       | Okulo           |
 | Orelo       | Orelo           |
 | Osto        | Osto            |
+| Palato      | Palato          |
 | Ped-fingro  | Piedfringo      |
 | Pedo        | Piedo           |
 | Pedo-kolo   | Maleolo         |

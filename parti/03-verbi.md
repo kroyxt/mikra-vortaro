@@ -9,6 +9,7 @@
 | Aceptar     | Akcepti                                  |
 | Adjudikar   | Prijuĝi                                  |
 | Adjuntar    | Aldoni                                   |
+| Alejar      | Malpezigi, Modereigi                     |
 | Aklamar     | Aklami                                   |
 | Admirar     | Admiri                                   |
 | Admisar     | Akcepti, Permesi (Aden loko)             |
@@ -38,6 +39,7 @@
 | Askoltar    | Aŭskulti                                 |
 | Aspektar    | Ŝajni                                    |
 | Astonar     | Mirigi, Surprizi                         |
+| Atakar      | Ataki                                    |
 | Atencar     | Atenti                                   |
 | Atestar     | Atesti                                   |
 | Atingar     | Atingi                                   |
@@ -74,6 +76,7 @@
 | Demandar    | Peti                                     |
 | Demonstrar  | Elmontri                                 |
 | Departar    | Foriri                                   |
+| Desegnar    | Desegni                                  |
 | Detruktar   | Detrui                                   |
 | Devar       | Devi                                     |
 | Dezirar     | Deziri                                   |
@@ -184,6 +187,7 @@
 | Iracar      | Koleri                                   |
 | Irar        | Iri                                      |
 | Iterar      | Ripeti                                   |
+| Izolar      | Izoli                                    |
 | Jacar       | Kuŝi                                     |
 | Jetar       | Ĵeti                                     |
 | Joyar       | Ĝoji                                     |
@@ -213,6 +217,7 @@
 | Konduktar   | Kondukti                                 |
 | Kondutar    | Konduti                                  |
 | Konfesar    | konfesi                                  |
+| Konfrontar  | Konfronti                                |
 | Konfundar   | Konfuzi                                  |
 | Konjedar    | Forpermesi                               |
 | Konkordar   | Konkordi                                 |
@@ -240,6 +245,7 @@
 | Kovrar      | Kovri                                    |
 | Kredar      | Kredi                                    |
 | Kripligar   | Fuŝi                                     |
+| Kultivar    | Kultivi, Kulturi                         |
 | Kurar       | Kuri                                     |
 | Kustar      | Kosti                                    |
 | Kustumar    | Kutimi                                   |
@@ -393,7 +399,7 @@
 | Saliar      | Elstari                                  |
 | Salutar     | Saluti                                   |
 | Salvar      | Savi                                     |
-| Saporar     | Gustumi                                  |
+| Saporar     | Gusti                                    |
 | Savar       | Scii                                     |
 | Semblar     | Ŝajni                                    |
 | Sendar      | Sendi                                    |
@@ -436,6 +442,7 @@
 | Tirar       | Tiri                                     |
 | Tolerar     | Toleri                                   |
 | Tormentar   | Turmenti                                 |
+| Tradicionar | Tradicii                                 |
 | Tradukar    | Traduki                                  |
 | Tondrar     | Tondri                                   |
 | Tranchar    | Tranĉi                                   |

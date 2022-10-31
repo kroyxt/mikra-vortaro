@@ -7,7 +7,7 @@
 | Afabla       | Afabla                             |
 | Agreabla     | Agrabla                            |
 | Ajila        | Tujagema, Facilmova                |
-| Akurata      | Akurata                            |
+| Akurata      | Ĝustatempa, Ekzakta                |
 | Akuta        | Akra                               |
 | Alta         | Alta                               |
 | Altra        | Alia                               |
@@ -15,6 +15,7 @@
 | Anciena      | Malnova                            |
 | Aparta       | Aparta                             |
 | Autentika    | Nefalsita, Nedubeble certa         |
+| Avara        | Avara                              |
 | Baza         | Baza                               |
 | Bela         | Bela                               |
 | Benigna      | Bonvola, Milda                     |
@@ -31,10 +32,13 @@
 | Chipa        | Malmultekosta                      |
 | Debila       | Malforta                           |
 | Delikata     | Delikata                           |
+| Derivi       | Pli simple devenigi                |
 | Dextra       | Dekstra                            |
+| Digna        | Digna                              |
 | Diligenta    | Diligenta                          |
 | Direta       | Rekta                              |
 | Diversa      | Diversa                            |
+| Docar        | Instrui (per sekvaj lecionoj)      |
 | Dolca        | Dolĉa                              |
 | Ecelanta     | Bonega                             |
 | Eminenta     | Eminenta                           |
@@ -110,6 +114,7 @@
 | Normala      | Normala                            |
 | Nova         | Nova                               |
 | Nuda         | Nuda                               |
+| Obskura      | Malluma, Malklara                  |
 | Olda         | Maljuna                            |
 | Ordinara     | Ordinara                           |
 | Pacienta     | Pacienca                           |
@@ -121,6 +126,7 @@
 | Posibla      | Ebla                               |
 | Potenta      | Potenca                            |
 | Povra        | Malriĉa                            |
+| Preciza      | Preciza                            |
 | Prezenta     | Ĉeestanta, Nuntempa, Prezenca      |
 | Pronta       | Preta                              |
 | Proxima      | Proksima                           |
@@ -137,6 +143,7 @@
 | Sekreta      | Sekreta                            |
 | Serioza      | Serioza                            |
 | Severa       | Severa                             |
+| Simila       | Simila                             |
 | Simpla       | Simpla                             |
 | Singla       | Ĉiu, Ĉio                           |
 | Sinistra     | Maldekstra                         |
@@ -151,6 +158,7 @@
 | Subita       | Subita                             |
 | Sufica       | Sufiĉa                             |
 | Superba      | Memfiera                           |
+| Splendida    | Mirinda, Belega                    |
 | Tenua        | Fajna                              |
 | Tota         | Tuta                               |
 | Trista       | Malfeliĉa                          |
