@@ -52,6 +52,7 @@
 | Feroca       | Feroca                             |
 | Fidela       | Fidela                             |
 | Fixa         | Fiksa                              |
+| Fizika       | Fizika                             |
 | Fola         | Frenezeta                          |
 | Forta        | Forta                              |
 | Fortuna      | Bonsorta                           |
@@ -147,6 +148,7 @@
 | Simpla       | Simpla                             |
 | Singla       | Ĉiu, Ĉio                           |
 | Sinistra     | Maldekstra                         |
+| Skeptika     | Skeptika                           |
 | Sola         | Sola                               |
 | Sordida      | Malpura                            |
 | Specala      | Speciala                           |

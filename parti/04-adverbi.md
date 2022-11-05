@@ -28,6 +28,7 @@
 | Olim     | Iufoje, Antaŭe                 |
 | Plus     | Pli, Plu                       |
 | Preske   | Preskaŭ                        |
+| Quaze    | Kvazaŭ                         |
 | Quik     | Tuj                            |
 | Sat      | Sufiĉe, adkvate                |
 | Supre    | Supre                          |

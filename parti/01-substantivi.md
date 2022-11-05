@@ -12,6 +12,7 @@
 | Alumeto      | Alumeto                                 |
 | Akademio     | Akademio                                |
 | Amiko        | Amiko                                   |
+| Ancestro     | Praulo                                  |
 | Animalo      | Besto, Vivulo                           |
 | Anjelo       | Anĝelo                                  |
 | Aparato      | Aparato                                 |
@@ -95,6 +96,7 @@
 | Frukto       | Frukto                                  |
 | Frumento     | Tritiko                                 |
 | Futbalo      | Futbalo                                 |
+| Futuro       | Estonteco                               |
 | Fusilo       | Fusilo                                  |
 | Gardeno      | Ĝardeno                                 |
 | Garsono      | Kelnero                                 |
@@ -129,6 +131,7 @@
 | Kadavro      | Kadavro                                 |
 | Kanapeo      | Kanapo                                  |
 | Karaktero    | Karaktero                               |
+| Kariero      | Kariero                                 |
 | Kafeo        | Kafo                                    |
 | Kajo         | Kaĝo                                    |
 | Kamiono      | Kamiono                                 |
@@ -190,6 +193,7 @@
 | Mastro       | Mastro                                  |
 | Materio      | Materialo                               |
 | Membro       | Membro                                  |
+| Menajo       | Mastrumado                              |
 | Meritar      | Meriti                                  |
 | Merkato      | Merkato                                 |
 | Mesajo       | Mesaĝo                                  |
@@ -205,6 +209,7 @@
 | Moro         | Moralo                                  |
 | Moyero       | Rimedo                                  |
 | Muro         | Muro                                    |
+| Muziko       | Muziko                                  |
 | Naciono      | Nacio                                   |
 | Nivelo       | Nivelo                                  |
 | Nobelo       | Nobelo                                  |
@@ -228,6 +233,7 @@
 | Paro         | Paro                                    |
 | Partio       | Festo                                   |
 | Parto        | Parto                                   |
+| Pasinto      | Estinteco                               |
 | Peco         | Peco                                    |
 | Pedbalono    | Piedpilko                               |
 | Peizajo      | Pejzaĝo                                 |
@@ -250,6 +256,7 @@
 | Posto        | Poŝto                                   |
 | Prato        | Herbejo, Paŝtejo                        |
 | Preco        | Prezo                                   |
+| Prezento     | Estanteco                               |
 | Problemo     | Problemo                                |
 | Profesiono   | Profesio                                |
 | Profesoro    | Profesoro                               |
@@ -271,18 +278,17 @@
 | Sekreto      | Sekreto                                 |
 | Semano       | Semajno                                 |
 | Semino       | Semo                                    |
-| Sentimento   | Sento                                   |
+| Sentimento   | Sento (mense)                           |
+| Sento        | Sento (korpe)                           |
 | Sexuo        | Sekso                                   |
 | Shako        | Ŝako                                    |
 | Shuo         | Ŝuo                                     |
 | Sigareto     | Cigaredo                                |
-| Sinioro      | Sinjoro(respekte)                       |
-| Sioro        | Sinjoro(ĝenerale)                       |
+| Sinioro      | Sinjoro (respekte)                      |
+| Sioro        | Sinjoro (ĝenerale)                      |
 | Situo        | Situacio                                |
 | Skalio       | Ŝelo                                    |
 | Skeleto      | Skeleto                                 |
-| Skeptika     | Skeptika                                |
-| Skisuro      | Plano                                   |
 | Skolo        | Lernejo                                 |
 | Skopo        | Celo                                    |
 | Societo      | Socio                                   |

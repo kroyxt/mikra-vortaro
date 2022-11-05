@@ -83,6 +83,8 @@
 | Dejuno       | Tagmanĝo    |
 | Dineo        | Vespermanĝo |
 | Supeo        | Noktmanĝo   |
+| Repasto      | Manĝo       |
+| Disho        | Manĝaĵo     |
 
 ## Manjaji
 
